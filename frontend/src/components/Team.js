@@ -4,27 +4,36 @@ import React from "react";
 function Team() {
   const teamMembers = [
     {
-      name: "Anubhav Patwal",
+      name: "Sarthak Bhatt",
       designation: "Team Lead",
-      image: "/img/patwal.jpeg",
+      image: "/img/sarthak.jpeg",
       socials: {
         linkedin: "https://linkedin.com/",
         instagram: "https://instagram.com/",
       },
     },
     {
-      name: "Kshitiz Panwar",
+      name: "Abhishek Bisht",
       designation: "AI Engineer",
-      image: "/img/kshitiz.jpeg",
+      image: "/img/abhishek.jpeg",
       socials: {
         linkedin: "https://linkedin.com/",
         instagram: "https://instagram.com/",
       },
     },
     {
-      name: "Paras Badola",
+      name: "Vaibhav Pant",
       designation: "Backend Developer",
-      image: "/img/khan.jpeg",
+      image: "/img/vaibhav.jpeg",
+      socials: {
+        linkedin: "https://linkedin.com/",
+        instagram: "https://instagram.com/",
+      },
+    },
+    {
+      name: "Aditya Khatri",
+      designation: "Backend Developer",
+      image: "/img/khatri.jpeg",
       socials: {
         linkedin: "https://linkedin.com/",
         instagram: "https://instagram.com/",
